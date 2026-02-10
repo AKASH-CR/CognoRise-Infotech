@@ -7,7 +7,7 @@ Projects
       Objective: To develop a model that can accurately classify whether a tumor is benign or malignant based on various features extracted from a breast mass.
       Dataset: The dataset used for this project was sourced from the UCI Machine Learning Repository.
       Techniques: Data preprocessing, feature selection, and training of classifiers like Logistic Regression, Decision Trees, and Support Vector Machine.
-      Results: Achieved an accuracy of XX% with the best-performing model.
+      Results: Achieved an accuracy of 96% with the best-performing model.
 2. Diabetes Prediction
       Objective: To predict the likelihood of diabetes in a patient based on various health indicators like BMI, age, blood pressure, and glucose levels.
       Dataset: The dataset used is the PIMA Indian Diabetes dataset, which is publicly available.
